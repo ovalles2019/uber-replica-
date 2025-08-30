@@ -183,9 +183,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions or feedback about this project:
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
+- **Portfolio**: https://www.oscar-valles.com/
+- **LinkedIn**: https://www.linkedin.com/in/oscarvalles87/
+- **GitHub**: https://github.com/ovalles2019
 
 ---
 
